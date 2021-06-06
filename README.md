@@ -1,4 +1,4 @@
-<img width="649" position="center" alt="Capture d’écran 2021-06-06 à 16 57 10" src="https://user-images.githubusercontent.com/7050604/120929296-ce40d600-c6e8-11eb-9fb8-a740a643e54d.png">
+<img width="649" left="50%" alt="Capture d’écran 2021-06-06 à 16 57 10" src="https://user-images.githubusercontent.com/7050604/120929296-ce40d600-c6e8-11eb-9fb8-a740a643e54d.png">
  
 - 👋 Hi, I’m @PaulGhibs
 
