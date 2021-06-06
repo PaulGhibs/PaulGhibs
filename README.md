@@ -1,5 +1,4 @@
  
- ![6078664a6f55f27ec322c15c_about-image-p-130x130q80](https://user-images.githubusercontent.com/7050604/120672097-495c7f00-c492-11eb-91cb-e44cf601c7b1.jpeg)
 - 👋 Hi, I’m @PaulGhibs
 
 - 👀 I’m interested in a lot of languages like Html, CSS, PHP, MYSQL, SWIFT, C# , UNITY, UNREAL ENGINE.
