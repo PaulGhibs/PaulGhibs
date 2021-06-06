@@ -1,4 +1,4 @@
-<img width="500" alt="Capture d’écran 2021-06-06 à 16 57 10" src="https://user-images.githubusercontent.com/7050604/120930010-bb7bd080-c6eb-11eb-91a3-e7f1ad53f896.png">
+<img width="400" alt="Capture d’écran 2021-06-06 à 16 57 10" src="https://user-images.githubusercontent.com/7050604/120930010-bb7bd080-c6eb-11eb-91a3-e7f1ad53f896.png">
 
 #  👋 Hi, I’m @PaulGhibs, 
 Welcome to my public GitHub Page, a easy way to get to know me and my work.
