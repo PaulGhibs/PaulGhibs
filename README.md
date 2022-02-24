@@ -24,3 +24,4 @@ But i'm working on swift since aproximately 2014, first of all by following some
 If you want to reach me directly, please see the contact details below.
 		
  [LinkedIn](https://www.linkedin.com/in/paul-ghibeaux-8a00a776/).
+ [Calendly](https://calendly.com/paul-ghibeaux/30min)
