@@ -3,7 +3,7 @@ Welcome to my public GitHub Page, a easy way to get to know me and my work.
 
 
 ###   About Me &nbsp;👨🏻‍💻
-📱 &nbsp;Nowadays, I'm a Mobile Developer specialized in Swift.\
+📱 &nbsp;Nowadays, I'm a Mobile Developer specialized in # Swift.\
 💼 &nbsp;I’m am certified by Openclassroom on some french swift courses recognized by the Government as a diploma of engineering.\
 💡 &nbsp;I like to explore new technologies and develop new software solutions.\
 🌱 &nbsp;I'm on track for learning more about Android development and others stuff.\
