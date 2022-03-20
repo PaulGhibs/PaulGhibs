@@ -45,4 +45,4 @@ If you want to reach me directly , please see the contact details below.\
 	
  ![icons8-linkedin](https://user-images.githubusercontent.com/7050604/158859083-1894a631-594b-4d6c-83e0-7a931b8b59df.png) [LinkedIn](https://www.linkedin.com/in/paul-ghibeaux-8a00a776/).\
  ![icons8-calendar](https://user-images.githubusercontent.com/7050604/158859312-0594983a-7eaf-4a84-8b94-1691111a4dc8.png) [Calendly](https://calendly.com/paul-ghibeaux/30min).\
-![icons8-email_sign](https://user-images.githubusercontent.com/7050604/158859591-c897202b-b50b-488f-a863-4af09c1443a8.png)  -> paul.ghib@gmail.com.
+![icons8-email_sign](https://user-images.githubusercontent.com/7050604/158859591-c897202b-b50b-488f-a863-4af09c1443a8.png) paul.ghib@gmail.com.
