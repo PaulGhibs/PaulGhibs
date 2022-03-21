@@ -8,7 +8,7 @@ Welcome to my public GitHub Page, a easy way to get to know me and my work.
 💡 &nbsp;I like to explore new technologies and develop new software solutions.\
 🌱 &nbsp;I'm on track for learning more about Android development and others stuff.\
 🎮 &nbsp;In my free time, I write code & try to make some games on **Unity and Unreal**.\
-👀 I’m interested in a lot of languages like Html, CSS, PHP, MYSQL, SWIFT, C# , UNITY, UNREAL ENGINE.\
+👀 I’m interested in a lot of languages like Html, CSS, PHP, MYSQL, SWIFT, C#.\
 📄 &nbsp;Please have a look at my [Website](https://pauls-g.webflow.io/). for more details about me. I'm open to feedback and suggestions! \
 
 
